@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "phonenumber": 1234,
+      "password": 1234
+    }
+  ],
+  "properties": [
+    {
+      "name": "S. nikhil",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9cMUEzPWVbv0f2LyQQYn76objVlAN8j4s8Q&usqp=CAU",
+      "price": 34,
+      "feedback": "sdfvb",
+      "id": 1
+    },
+    {
+      "name": "S. nikhil",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9cMUEzPWVbv0f2LyQQYn76objVlAN8j4s8Q&usqp=CAU",
+      "price": 34,
+      "feedback": "sdfvb",
+      "id": 2
+    },
+    {
+      "name": "S. nikhil",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9cMUEzPWVbv0f2LyQQYn76objVlAN8j4s8Q&usqp=CAU",
+      "price": 34,
+      "feedback": "sdfvb",
+      "id": 3
+    }
+  ],
+  "details": [
+    {
+      "fullname": "Verrapagari Sagar",
+      "phonenumber": 8784128410,
+      "place": "sagareddy",
+      "feedback": "wdfvb\n",
+      "id": 4
+    },
+    {
+      "fullname": "Sukala Nikhil",
+      "phonenumber": 32146213131,
+      "place": "hyd",
+      "feedback": "good...!",
+      "role": "admin",
+      "id": 6
+    },
+    {
+      "fullname": "Nandipally Manikanta",
+      "phonenumber": 7894561235,
+      "place": "Jogumpeta",
+      "feedback": "Good...!",
+      "role": "admin",
+      "id": 7
+    }
+  ]
+}
